@@ -2,3 +2,4 @@
 *.manifest binary
 *.application binary
 *.deploy binary
+styles/bootstrap.css linguist-vendored
