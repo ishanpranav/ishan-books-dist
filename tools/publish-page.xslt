@@ -95,10 +95,10 @@ Licensed under the MIT License.
                                    class="btn btn-light btn-md px-4">Download installer</a>
                             </div>
                             <div class="col-md-8">
-                                <img src="images/capture-1.png" alt="Screenshot of the IshanBooks application with visual income statement, chart of accounts, and general journal." class="img-fluid" />
+                                <img src="images/story-1.png" alt="Screenshot of the IshanBooks application." class="img-fluid" />
                             </div>
                         </div>
-                        <div class="row g-5">
+                        <div class="row g-5 mb-5">
                             <div class="col-md-4">
                                 <h2 class="text-body-emphasis">Features</h2>
                                 <ul class="list-unstyled ps-0">
@@ -145,7 +145,25 @@ Licensed under the MIT License.
                                 </ul>
                             </div>
                             <div class="col-md-8">
-                                <img src="images/capture-2.png" alt="Screenshot of the IshanBooks application with statement of financial condition (balance sheet), visual balance sheet, customized asset allocation chart, and new account form." class="img-fluid" />
+                                <img src="images/story-2.png" alt="Screenshot of the IshanBooks application." class="img-fluid" />
+                            </div>
+                        </div>
+                        <div class="row g-5 mb-5">
+                            <div class="col-md-4">z</div>
+                            <div class="col-md-8">
+                                <img src="images/story-3.png" alt="Screenshot of the IshanBooks application." class="img-fluid" />                           
+                            </div>
+                        </div>
+                        <div class="row g-5 mb-5">
+                            <div class="col-md-4">y</div>
+                            <div class="col-md-8">
+                                <img src="images/story-4.png" alt="Screenshot of the IshanBooks application." class="img-fluid" />                           
+                            </div>
+                        </div>
+                        <div class="row g-5 mb-5">
+                            <div class="col-md-4">x</div>
+                            <div class="col-md-8">
+                                <img src="images/story-5.png" alt="Screenshot of the IshanBooks application." class="img-fluid" />                           
                             </div>
                         </div>
                     </main>
