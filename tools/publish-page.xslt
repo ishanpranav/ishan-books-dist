@@ -149,20 +149,17 @@ Licensed under the MIT License.
                             </div>
                         </div>
                         <div class="row g-5 mb-5">
-                            <div class="col-md-4">z</div>
-                            <div class="col-md-8">
+                            <div class="col-md-8 offset-md-4">
                                 <img src="images/story-3.png" alt="Screenshot of the IshanBooks application." class="img-fluid" />                           
                             </div>
                         </div>
                         <div class="row g-5 mb-5">
-                            <div class="col-md-4">y</div>
-                            <div class="col-md-8">
+                            <div class="col-md-8 offset-md-4">
                                 <img src="images/story-4.png" alt="Screenshot of the IshanBooks application." class="img-fluid" />                           
                             </div>
                         </div>
                         <div class="row g-5 mb-5">
-                            <div class="col-md-4">x</div>
-                            <div class="col-md-8">
+                            <div class="col-md-8 offset-md-4">
                                 <img src="images/story-5.png" alt="Screenshot of the IshanBooks application." class="img-fluid" />                           
                             </div>
                         </div>
