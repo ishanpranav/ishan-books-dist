@@ -134,6 +134,14 @@ Licensed under the MIT License.
                                             Use register
                                         </a>
                                     </li>
+                                    <li>
+                                        <a class="icon-link mb-1" href="https://en.wikipedia.org/wiki/Reconciliation_(accounting)">
+                                            <svg class="bi" width="16" height="16">
+                                                <use href="#arrow-right-circle"/>
+                                            </svg>
+                                            Reconcile
+                                        </a>
+                                    </li>
                                 </ul>
                             </div>
                             <div class="col-md-8">
