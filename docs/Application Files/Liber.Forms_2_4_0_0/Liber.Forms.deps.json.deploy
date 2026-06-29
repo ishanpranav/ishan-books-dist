@@ -8,11 +8,9 @@
     ".NETCoreApp,Version=v10.0": {
       "Liber.Forms/1.0.0": {
         "dependencies": {
-          "Liber.MathEngine": "1.0.0",
           "Liber.Sqlite": "1.0.0",
           "Microsoft.Web.WebView2": "1.0.3595.46",
           "PDFsharp": "6.2.2",
-          "WindowsAPICodePack": "8.0.12",
           "ini-parser-netstandard": "2.5.3",
           "Microsoft.Web.WebView2.Core": "1.0.3595.46",
           "Microsoft.Web.WebView2.WinForms": "1.0.3595.46",
@@ -356,39 +354,12 @@
           }
         }
       },
-      "WindowsAPICodePack/8.0.12": {
-        "runtime": {
-          "lib/net10.0-windows7.0/Microsoft.WindowsAPICodePack.Core.dll": {
-            "assemblyVersion": "8.0.12.0",
-            "fileVersion": "8.0.12.0"
-          },
-          "lib/net10.0-windows7.0/Microsoft.WindowsAPICodePack.ExtendedLinguisticServices.dll": {
-            "assemblyVersion": "8.0.12.0",
-            "fileVersion": "8.0.12.0"
-          },
-          "lib/net10.0-windows7.0/Microsoft.WindowsAPICodePack.Sensors.dll": {
-            "assemblyVersion": "8.0.12.0",
-            "fileVersion": "8.0.12.0"
-          },
-          "lib/net10.0-windows7.0/Microsoft.WindowsAPICodePack.Shell.dll": {
-            "assemblyVersion": "8.0.12.0",
-            "fileVersion": "8.0.12.0"
-          },
-          "lib/net10.0-windows7.0/Microsoft.WindowsAPICodePack.ShellExtensions.dll": {
-            "assemblyVersion": "8.0.12.0",
-            "fileVersion": "8.0.12.0"
-          },
-          "lib/net10.0-windows7.0/Microsoft.WindowsAPICodePack.dll": {
-            "assemblyVersion": "8.0.12.0",
-            "fileVersion": "8.0.12.0"
-          }
-        }
-      },
       "Liber/1.0.0": {
         "dependencies": {
           "CsvHelper": "33.1.0",
           "Humanizer.Core": "3.0.10",
-          "Humanizer.Core.es": "3.0.10"
+          "Humanizer.Core.es": "3.0.10",
+          "Liber.MathEngine": "1.0.0"
         },
         "runtime": {
           "Liber.dll": {
@@ -579,13 +550,6 @@
       "sha512": "sha512-5L7YXWtPzKYHeXBHmj63QsHbLQmy0SYvhQp3xWA2yzSq1SvlnGFViveLfUDr/GEmePrqzXQ9tOJG9iQnFspfBA==",
       "path": "sqlitepclraw.provider.e_sqlcipher/2.1.11",
       "hashPath": "sqlitepclraw.provider.e_sqlcipher.2.1.11.nupkg.sha512"
-    },
-    "WindowsAPICodePack/8.0.12": {
-      "type": "package",
-      "serviceable": true,
-      "sha512": "sha512-pjfXnQ9ivO02Lwz29PXuc6INWjSZGcw8AMsBa5aiIXKF+vnecIqUzQhmkTd5+vNtUmJMwU7FWv9QUA41GMsO9A==",
-      "path": "windowsapicodepack/8.0.12",
-      "hashPath": "windowsapicodepack.8.0.12.nupkg.sha512"
     },
     "Liber/1.0.0": {
       "type": "project",
