@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
-  <asmv1:assemblyIdentity name="Liber.Forms.exe" version="2.3.0.0" publicKeyToken="b1f747c0f1172c40" language="neutral" processorArchitecture="msil" type="win32" />
+  <asmv1:assemblyIdentity name="Liber.Forms.exe" version="2.4.1.0" publicKeyToken="b1f747c0f1172c40" language="neutral" processorArchitecture="msil" type="win32" />
   <description asmv2:iconFile="favicon.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
   <application />
   <entryPoint>
@@ -150,7 +150,7 @@
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>WFqfuafssKoRxFDsUD1CacNJOZiJ9vG+esLdFpEU0K4=</dsig:DigestValue>
+      <dsig:DigestValue>rJ/5/WKjRcT/+INNzwUtAzyLKuY+Q6ZCufs8lD0CtGg=</dsig:DigestValue>
     </hash>
   </file>
   <file name="en\Liber.resources.dll" size="3584">
@@ -159,7 +159,7 @@
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>o1bkNogfEwINOjF1QBpVNSBKR0aQmel0hcPFkR//sK0=</dsig:DigestValue>
+      <dsig:DigestValue>qsLKeAjCDQQmIN02M5dJ9ak5uVJCGwaiJuK5GWPXH9w=</dsig:DigestValue>
     </hash>
   </file>
   <file name="en-GB\Liber.Forms.resources.dll" size="4608">
@@ -168,7 +168,7 @@
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>4il87vd857NCmo1KXJyOiWkGtd7+uqG4FhsbQujFbr8=</dsig:DigestValue>
+      <dsig:DigestValue>0FUfRgSj71zdg/rtZXOZsdYUD/rLpsVqbtn9ok3kFIE=</dsig:DigestValue>
     </hash>
   </file>
   <file name="es\Humanizer.resources.dll" size="31408">
@@ -180,22 +180,22 @@
       <dsig:DigestValue>160DzQfgHkl7GtQ9oCfXn/QoGpLd01KcdPHGeSKVKnM=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="es\Liber.Forms.resources.dll" size="329216">
+  <file name="es\Liber.Forms.resources.dll" size="330752">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>FUBWBvWGt/wlFo62X+lN4XCsZX6BDahI5ax3D4HrQ3w=</dsig:DigestValue>
+      <dsig:DigestValue>w1AN9PwPqkbSMVgy2OEMX/wtxUjOyMpq9nAcy+I4ujg=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="es\Liber.resources.dll" size="9728">
+  <file name="es\Liber.resources.dll" size="11264">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>Ho0R7mKdLygY/U5VNk5RGpRdzCurYtVYKB7ql1Qf4J8=</dsig:DigestValue>
+      <dsig:DigestValue>/2OzypoS6Q9S6QEf63C6NffsciI9X7KFION2xIVBPEo=</dsig:DigestValue>
     </hash>
   </file>
   <file name="es-ES\Liber.Forms.resources.dll" size="6144">
@@ -204,7 +204,7 @@
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>yDuvTJnvroFaZQri+ag2m2pjnNtBeHZtkjnSo7FWyQw=</dsig:DigestValue>
+      <dsig:DigestValue>o2dh13Y97Tzsg0mzgb/5SzPAUN6sRaOaM899yIXUoeE=</dsig:DigestValue>
     </hash>
   </file>
   <file name="es-ES\Liber.resources.dll" size="4096">
@@ -213,7 +213,7 @@
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>WbcA6pRBNbMo26/Qfe//b9JZ45jRILSXlkBAWY5HYjc=</dsig:DigestValue>
+      <dsig:DigestValue>4SCSlxX5Gmj3fMSmXtnzQ4ZGDkxKAmXbZ7j624dBqB0=</dsig:DigestValue>
     </hash>
   </file>
   <file name="favicon.ico" size="164499">
@@ -243,40 +243,40 @@
       <dsig:DigestValue>jPVr5u6BlxG3dkk/sLW8RNN8FlaVTg6XmlFVTlK2I5I=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="Liber.dll" size="427520">
+  <file name="Liber.dll" size="435200">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>2JMz+5O2galcrDCEWFm5sHZdvHqloxCSlcgOw2TRLk4=</dsig:DigestValue>
+      <dsig:DigestValue>crIHg7aMDoy/aomdnUwwQK0nGJNppdL5oP8+6mxKtHo=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="Liber.Forms.deps.json" size="22239">
+  <file name="Liber.Forms.deps.json" size="20722">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>kUDJCJ9ZPJXXKfBchfUay6iUUQGJsFjLcTMq8L3Ir98=</dsig:DigestValue>
+      <dsig:DigestValue>y+Q6ffuLF3EvBG73VGz2Nt9Kg/H6laSOq1w6T59huww=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="Liber.Forms.dll" size="1153904">
+  <file name="Liber.Forms.dll" size="1164656">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>RQNqpX36236+MnQz/ANaZLnwlrHalT+UIUqqSHoEIsc=</dsig:DigestValue>
+      <dsig:DigestValue>Ds/N8vzTaRcysnK/Ckncj2E/b9yBjYCetRLkxxIZw0Q=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="Liber.Forms.dll.config" size="3786">
+  <file name="Liber.Forms.dll.config" size="3787">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>1vl8eEYkymZ0+COZpuBmTr8R8ZhwAbugliztdr9LRDw=</dsig:DigestValue>
+      <dsig:DigestValue>m8YX0B6fagNs2TClzU90QeZti4fXgSHQkK/5BG7/9PM=</dsig:DigestValue>
     </hash>
   </file>
   <file name="Liber.Forms.exe" size="329072">
@@ -285,7 +285,7 @@
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>xEbO9q35DUvC3iFoE86pKKZc8hvRDC76zunMWMCaE5g=</dsig:DigestValue>
+      <dsig:DigestValue>JLAgo3XQ7GAaoUr9FWCQp+R3cpbevKe2Nn3xIVE0UNs=</dsig:DigestValue>
     </hash>
   </file>
   <file name="Liber.Forms.runtimeconfig.json" size="519">
@@ -312,7 +312,7 @@
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>s0cIFR9cNE/1KMm1nXttidC2dD60Vfr8bR9ojJ3VL/Q=</dsig:DigestValue>
+      <dsig:DigestValue>W1FcKhE1zWBCOj55wFw9ayHtzmKWBuwv+JWkOpTxtb4=</dsig:DigestValue>
     </hash>
   </file>
   <file name="Microsoft.Data.Sqlite.dll" size="176696">
@@ -403,60 +403,6 @@
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
       <dsig:DigestValue>AlsH3wdorU0XwKIyIQoYRPcGE/tiKzuFQCXKtVenn6M=</dsig:DigestValue>
-    </hash>
-  </file>
-  <file name="Microsoft.WindowsAPICodePack.Core.dll" size="104448">
-    <hash>
-      <dsig:Transforms>
-        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
-      </dsig:Transforms>
-      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>R8H+teQeSXIIXYwnuLDP7OJxYBQQN5Atttv57r+kwOs=</dsig:DigestValue>
-    </hash>
-  </file>
-  <file name="Microsoft.WindowsAPICodePack.dll" size="6144">
-    <hash>
-      <dsig:Transforms>
-        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
-      </dsig:Transforms>
-      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>slNyXRlvAYBuuOQL2I/H7M4OdIXFjTcKQJWnArpF2GU=</dsig:DigestValue>
-    </hash>
-  </file>
-  <file name="Microsoft.WindowsAPICodePack.ExtendedLinguisticServices.dll" size="27648">
-    <hash>
-      <dsig:Transforms>
-        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
-      </dsig:Transforms>
-      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>71OJT7FeLiKv5WPuzKLcqIpqakPo0jXsxlC0RAgr9cU=</dsig:DigestValue>
-    </hash>
-  </file>
-  <file name="Microsoft.WindowsAPICodePack.Sensors.dll" size="48128">
-    <hash>
-      <dsig:Transforms>
-        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
-      </dsig:Transforms>
-      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>xkOZQZSG1NqzCtYDFCo3JGKMTNT5jsdng/J0MWTRWok=</dsig:DigestValue>
-    </hash>
-  </file>
-  <file name="Microsoft.WindowsAPICodePack.Shell.dll" size="574976">
-    <hash>
-      <dsig:Transforms>
-        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
-      </dsig:Transforms>
-      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>n7UZUdquDieprXDFOP71u0wTN+kZO3/FAa2NI01XDmE=</dsig:DigestValue>
-    </hash>
-  </file>
-  <file name="Microsoft.WindowsAPICodePack.ShellExtensions.dll" size="36352">
-    <hash>
-      <dsig:Transforms>
-        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
-      </dsig:Transforms>
-      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>AIQ6VfyS97I8aUm+yOoKywstV/dii9mN3AytEqNsCGI=</dsig:DigestValue>
     </hash>
   </file>
   <file name="pages\account-map.html" size="909">
@@ -1171,4 +1117,4 @@
     </hash>
   </file>
   <fileAssociation extension=".izbk" description="IshanBooks Company File" progid="Liber.Company.1" defaultIcon="favicon.ico" xmlns="urn:schemas-microsoft-com:clickonce.v1" />
-<publisherIdentity name="CN=Ishan Pranav" issuerKeyHash="fbd17a37d20e39595b6d44d81eb4c5c3a89652e6" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>p7cMWMO3PWfpXzqt/4iB1YF7FWSrZOws9JzM2iCbXh8=</DigestValue></Reference></SignedInfo><SignatureValue>mGZra0yHRhJlz7kc1WldKkhCM/sbRiTY3CBwkvkXNXt272dQpKHY/Jrgt/77glSZerXcevD29doTfPop2LP8qGdEvzOEo9RBA27TTFtKifTZB89Pe79A+3MjbJrhEZW0eFrW3G9BzKHL7h/q8AOusnCW0tEY9w9mUkPrdWTG0nlSRBULELEJ1i7u5cHMd9ROdSvLL3c0/r43J5gFtrvmTkoPBVT/h933uwtNjixNRnwVpJQEjLJmTqG11WFo5exVZg6sIkmfNTLmhRdvUsLUXGCAi2z0BRM3htVKwkfv8/+di3+SCBm89ObrAZ943wS00/VwjnJ2UjgidI0SA0mcAQ==</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>rCTjKIjUk5ry2VV4ryVNpr38rm6Y02FHp9Za605DP8p5wq+1OJhFoPKsXU0sHS9lCkfPta7zldK87U9JnTGg+UJ3tYsefBBxxFNp6LQsrH7h3Zx5ZlQygzL7K3i75Vf19AxjcaXgsj7hFNOVI9PvByYwpCNMDQCG5O5ylWeKD37Y69r+NBY3Vb6pX/jxZ9+wq8ZXIqsbvr2HPG5s3nYQUPaU3p0o19SAgg3a0dytyK2DNS3rWiLVNnpZ2Kwy8DmrLAD6mxG1upiDpc4nN32hJQp+EJ/oSKACiCpj9nrK2f7r2+7rzQ6OCM6ALkPgAaAPlyNXtkuoZJZkLYx9aYTr2Q==</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="1f5e9b20dacc9cf42cec64ab64157b81d58188ffad3a5fe9673db7c3580cb7a7" Description="" Url=""><as:assemblyIdentity name="Liber.Forms.exe" version="2.3.0.0" publicKeyToken="b1f747c0f1172c40" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=Ishan Pranav</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>+y2Hy5XYfX2rIUi82FWi9wkPYoIzkpUsfbbMw0YoAzs=</DigestValue></Reference></SignedInfo><SignatureValue>kOmf655id/ojdggcqDFfPYGzVWY5T3sd/fQrDRN6EIqfXoWjjdr6Q7ODcZrB85lh4F4eBwr8V4UAj+oEbzkuLmHVyKyIps6PirqFVFAbq+FygUVaXJBYyfL0Nntg6vlWpS+x+3igMMes8JPmzVJPh0FjD9UhPk3Nynp4VIgsQKH/ymUvC435yprlhnQWDqCNF/ynnLs6v+NoUdkaXosINRxoA0FR3sYUwXLkn8yoDvhfw5H+EjxkXDvG0FUlKfE3e2d1DUVG6QVRGXEMrw1CbBLL68FonyDucKuSflfKLuemi17uU8CYEGgHKRgAGlMmcxCCJ9FWNDnUkJuboi33XQ==</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>rCTjKIjUk5ry2VV4ryVNpr38rm6Y02FHp9Za605DP8p5wq+1OJhFoPKsXU0sHS9lCkfPta7zldK87U9JnTGg+UJ3tYsefBBxxFNp6LQsrH7h3Zx5ZlQygzL7K3i75Vf19AxjcaXgsj7hFNOVI9PvByYwpCNMDQCG5O5ylWeKD37Y69r+NBY3Vb6pX/jxZ9+wq8ZXIqsbvr2HPG5s3nYQUPaU3p0o19SAgg3a0dytyK2DNS3rWiLVNnpZ2Kwy8DmrLAD6mxG1upiDpc4nN32hJQp+EJ/oSKACiCpj9nrK2f7r2+7rzQ6OCM6ALkPgAaAPlyNXtkuoZJZkLYx9aYTr2Q==</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIC/jCCAeagAwIBAgIQbJdciSQRDLRC4TeLmv1YLTANBgkqhkiG9w0BAQsFADAXMRUwEwYDVQQDDAxJc2hhbiBQcmFuYXYwHhcNMjYwNjEzMDYzMTM3WhcNMjgwNjEzMDY0MTM1WjAXMRUwEwYDVQQDDAxJc2hhbiBQcmFuYXYwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQCsJOMoiNSTmvLZVXivJU2mvfyubpjTYUen1lrrTkM/ynnCr7U4mEWg8qxdTSwdL2UKR8+1rvOV0rztT0mdMaD5Qne1ix58EHHEU2notCysfuHdnHlmVDKDMvsreLvlV/X0DGNxpeCyPuEU05Uj0+8HJjCkI0wNAIbk7nKVZ4oPftjr2v40FjdVvqlf+PFn37Crxlciqxu+vYc8bmzedhBQ9pTenSjX1ICCDdrR3K3IrYM1LetaItU2elnYrDLwOassAPqbEbW6mIOlzic3faElCn4Qn+hIoAKIKmP2esrZ/uvb7uvNDo4IzoAuQ+ABoA+XI1e2S6hklmQtjH1phOvZAgMBAAGjRjBEMA4GA1UdDwEB/wQEAwIHgDATBgNVHSUEDDAKBggrBgEFBQcDAzAdBgNVHQ4EFgQU+9F6N9IOOVlbbUTYHrTFw6iWUuYwDQYJKoZIhvcNAQELBQADggEBAJ1IrzhS7xcxVSaBI79hG9flaQ9e77sI3LCNuXzDVM6thpxRjZKAPKXyAX9dXuCRYbp5IgwOT9GT+BshMUaatHpIMM+M6Mlu866VqGvUBylsDIVDrO5x2vNvJnDlrSjLhne6/yzbPrCgneclBVQGhG6CDkAUcIrdTS+NeMGd4TkQvE1pnsy/EJLk9c4NCUABHi2LB5tN8WYsv5iw137uf3PtHqKIRRcCmYafaG9ugaltOpAzl7QRvgm0U7M7p7fKARpPPYo+8iMhAsinzLz+FdQTp8JHEb7h7roxRDM0u0rqKxgshROJM4RrHJ6JqXmDpvj/yJ7Fo2P1wzvPaZgGtD4=</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>
+<publisherIdentity name="CN=Ishan Pranav" issuerKeyHash="fbd17a37d20e39595b6d44d81eb4c5c3a89652e6" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>zi7Dy+cRjrQlVaD9e6JIy8ajM7JAdyJLCMtQy6rvgZ0=</DigestValue></Reference></SignedInfo><SignatureValue>CV7LHjYk5dMXr0agGR861BFogotQSxbXLxV9NtqxindzmLWSjgXd5Z5KSYu/gWY/GkNryy/Rf1jYEl3NHXh+qvwEhTbOZ7UbEdkEF5Yehqxet+RnVO6BNbIWfuuhVQcAsusZCgiY65y/vXJXSrY+tpHgAQwTKXYONOfkHqI0qusZP9m/Zb3Ysp977TpPaU+0GDBxjQm/hf7H9KBVLmSqBX7gQ4Te1QUgnvTmpN6v4JyUY+nVLqb057+EADSa3F1dfvYymW7grwlgtWLQxw/1h7XW79SeF/pt2xml07uLMU0uYWwc3CinfTRj0AP/yJKa2/XGD2byeTAwf42KhLvDtA==</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>rCTjKIjUk5ry2VV4ryVNpr38rm6Y02FHp9Za605DP8p5wq+1OJhFoPKsXU0sHS9lCkfPta7zldK87U9JnTGg+UJ3tYsefBBxxFNp6LQsrH7h3Zx5ZlQygzL7K3i75Vf19AxjcaXgsj7hFNOVI9PvByYwpCNMDQCG5O5ylWeKD37Y69r+NBY3Vb6pX/jxZ9+wq8ZXIqsbvr2HPG5s3nYQUPaU3p0o19SAgg3a0dytyK2DNS3rWiLVNnpZ2Kwy8DmrLAD6mxG1upiDpc4nN32hJQp+EJ/oSKACiCpj9nrK2f7r2+7rzQ6OCM6ALkPgAaAPlyNXtkuoZJZkLYx9aYTr2Q==</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="9d81efaacb50cb084b227740b233a3c6cb48a27bfda05525b48e11e7cbc32ece" Description="" Url=""><as:assemblyIdentity name="Liber.Forms.exe" version="2.4.1.0" publicKeyToken="b1f747c0f1172c40" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=Ishan Pranav</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>2+2V3BdZnUUewEdmoq5MM038nIjiSbze4oqBv7HlCUU=</DigestValue></Reference></SignedInfo><SignatureValue>PafUz2UDN8wb2Zthl2RDQhDqM2Ao6oQiRLsguARQZ7rYnvB+/2Kt/6LvJ4TKmofe6u+1RFTTmx9Kqc8wvOaOhPtxGl4XCkhnDiofUimxiDh2O+3KBe0MrWiiTAy0KxIMdu8QC/vThZMO7BWtI3mnUMVDhAms5OFIy0Qxs/poNrCdd/9lY19icglZSO37u/ImrF1omIgPbG0JkOwwavCYPIxghZZiiohaukGxP5/GLdKTIl9+4TncTGWSJe/LtykKdC6dmG9GiwMKMEAlgMWeyYFTtNQtkaUsRtn/P/WCHt/riH9qydo/FdWjf8z2QLqX7LPzDyOdO/hC2IPgjBKOtA==</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>rCTjKIjUk5ry2VV4ryVNpr38rm6Y02FHp9Za605DP8p5wq+1OJhFoPKsXU0sHS9lCkfPta7zldK87U9JnTGg+UJ3tYsefBBxxFNp6LQsrH7h3Zx5ZlQygzL7K3i75Vf19AxjcaXgsj7hFNOVI9PvByYwpCNMDQCG5O5ylWeKD37Y69r+NBY3Vb6pX/jxZ9+wq8ZXIqsbvr2HPG5s3nYQUPaU3p0o19SAgg3a0dytyK2DNS3rWiLVNnpZ2Kwy8DmrLAD6mxG1upiDpc4nN32hJQp+EJ/oSKACiCpj9nrK2f7r2+7rzQ6OCM6ALkPgAaAPlyNXtkuoZJZkLYx9aYTr2Q==</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIC/jCCAeagAwIBAgIQbJdciSQRDLRC4TeLmv1YLTANBgkqhkiG9w0BAQsFADAXMRUwEwYDVQQDDAxJc2hhbiBQcmFuYXYwHhcNMjYwNjEzMDYzMTM3WhcNMjgwNjEzMDY0MTM1WjAXMRUwEwYDVQQDDAxJc2hhbiBQcmFuYXYwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQCsJOMoiNSTmvLZVXivJU2mvfyubpjTYUen1lrrTkM/ynnCr7U4mEWg8qxdTSwdL2UKR8+1rvOV0rztT0mdMaD5Qne1ix58EHHEU2notCysfuHdnHlmVDKDMvsreLvlV/X0DGNxpeCyPuEU05Uj0+8HJjCkI0wNAIbk7nKVZ4oPftjr2v40FjdVvqlf+PFn37Crxlciqxu+vYc8bmzedhBQ9pTenSjX1ICCDdrR3K3IrYM1LetaItU2elnYrDLwOassAPqbEbW6mIOlzic3faElCn4Qn+hIoAKIKmP2esrZ/uvb7uvNDo4IzoAuQ+ABoA+XI1e2S6hklmQtjH1phOvZAgMBAAGjRjBEMA4GA1UdDwEB/wQEAwIHgDATBgNVHSUEDDAKBggrBgEFBQcDAzAdBgNVHQ4EFgQU+9F6N9IOOVlbbUTYHrTFw6iWUuYwDQYJKoZIhvcNAQELBQADggEBAJ1IrzhS7xcxVSaBI79hG9flaQ9e77sI3LCNuXzDVM6thpxRjZKAPKXyAX9dXuCRYbp5IgwOT9GT+BshMUaatHpIMM+M6Mlu866VqGvUBylsDIVDrO5x2vNvJnDlrSjLhne6/yzbPrCgneclBVQGhG6CDkAUcIrdTS+NeMGd4TkQvE1pnsy/EJLk9c4NCUABHi2LB5tN8WYsv5iw137uf3PtHqKIRRcCmYafaG9ugaltOpAzl7QRvgm0U7M7p7fKARpPPYo+8iMhAsinzLz+FdQTp8JHEb7h7roxRDM0u0rqKxgshROJM4RrHJ6JqXmDpvj/yJ7Fo2P1wzvPaZgGtD4=</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>
