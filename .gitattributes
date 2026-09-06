@@ -1,5 +1,5 @@
 *.manifest binary
 *.application binary
-*.deploy filter=lfs diff=lfs merge=lfs -text
+*.deploy binary
 styles/bootstrap.css linguist-vendored
 * !text !filter !merge !diff
